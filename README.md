@@ -36,3 +36,7 @@ The dashboard should appear directly on the screen. (The .twbx already includes 
 4. Click on the Presentation mode Icon as shown in the below screenshot to view the dashboard in full screen.
 
 You can interact with the dashboard by selecting different filters and options to explore the data in more detail.
+
+## Explanation Video ##
+
+https://www.youtube.com/watch?v=DXAYqD-mmkg
